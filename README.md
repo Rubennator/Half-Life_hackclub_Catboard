@@ -9,7 +9,7 @@ Image of the Catbie:
 So I can extend this face and make a real cat!
 
 
-Right now I have almost made the pcb:
+After some hours I have almost made the pcb:
 
 <img width="540" height="765" alt="image" src="https://github.com/user-attachments/assets/a975204a-f5d7-420b-82d0-eba36c3429b4" />
 
