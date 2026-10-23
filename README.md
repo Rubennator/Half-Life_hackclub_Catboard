@@ -14,3 +14,4 @@ After some hours I have almost made the pcb:
 <img width="540" height="765" alt="image" src="https://github.com/user-attachments/assets/a975204a-f5d7-420b-82d0-eba36c3429b4" />
 
 Above you also see the head which is from the Catbie. This is how I could make sure it slotted in. Sadly it isn't possible to make the body more scaled to the head due to prices.
+It wasn't easy to make my own footprint but eventually I actually made my very own pcb "component". For the shape of the it paw was worth the struggle.
