@@ -2,6 +2,7 @@
 
 A Midi keypad is pretty cool, but it can be made cooler!
 In the first project (week 1) I made a Catbie, cat tamagotchi, only the face/head. So in this project I will be making the body of the cat. 
+
 Image of the Catbie: 
 <img width="1171" height="1131" alt="sm_blue_top" src="https://github.com/user-attachments/assets/b9bf4862-c159-4c4b-817c-5972ff215ea9" />
 
