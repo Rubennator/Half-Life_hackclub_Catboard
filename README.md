@@ -7,3 +7,10 @@ Image of the Catbie:
 <img width="1171" height="1131" alt="sm_blue_top" src="https://github.com/user-attachments/assets/b9bf4862-c159-4c4b-817c-5972ff215ea9" />
 
 So I can extend this face and make a real cat!
+
+
+Right now I have almost made the pcb:
+
+<img width="540" height="765" alt="image" src="https://github.com/user-attachments/assets/a975204a-f5d7-420b-82d0-eba36c3429b4" />
+
+Above you also see the head which is from the Catbie. This is how I could make sure it slotted in. Sadly it isn't possible to make the body more scaled to the head due to prices.
