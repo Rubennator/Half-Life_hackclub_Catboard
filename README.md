@@ -15,3 +15,11 @@ After some hours I have almost made the pcb:
 
 Above you also see the head which is from the Catbie. This is how I could make sure it slotted in. Sadly it isn't possible to make the body more scaled to the head due to prices.
 It wasn't easy to make my own footprint but eventually I actually made my very own pcb "component". For the shape of the it paw was worth the struggle.
+
+Done the wiring and made the PCB look pretty cool with the silkscreen!
+
+<img width="817" height="599" alt="Screenshot 2026-10-25 120143" src="https://github.com/user-attachments/assets/468bd028-3473-44b0-bdca-e161f550b203" />
+<img width="857" height="626" alt="Screenshot 2026-10-25 120119" src="https://github.com/user-attachments/assets/d4a48e27-a190-4c4a-b34d-787335e737ea" />
+
+The firmware I took from the github of Kai and tried to make it fit my key-layout. The LED should also work. Only one way to find out in 5 weeks! :)
+I learned quite a lot from the second time PCB-making. It isn't as hard as I thought. But it is expensive.... :(
