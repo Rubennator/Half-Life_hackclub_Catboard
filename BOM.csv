@@ -1,4 +1,4 @@
 Item,Qty,Supplier,Cost/item,Total Cost,link
 PCB,1,JLCPCB,$9.99,$9.99,https://cart.jlcpcb.com/shopcart/cart/
 ESP32 S3,1,Amazon,$19.35,$19.35,https://www.amazon.nl/-/en/gp/product/B0BYSB66S5?smid=A26PJZ1I13C9HB&psc=1
-Estimated total shipping,1,,,$0.00,
+Estimated total shipping,1,,,$12.14,
